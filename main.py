@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 load_dotenv()
 API_KEY = os.getenv("N2YO_API_KEY")
 
-# Streamlit app title
 st.title("ISRO Satellite Tracker")
 
 # Satellite data (ID mappings for selected ISRO satellites)
