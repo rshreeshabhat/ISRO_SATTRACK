@@ -70,7 +70,7 @@ Copy code
 pip install streamlit requests pydeck pandas
 ```
 
-### 5 API Setup
+### 5. API Setup
 This application uses the N2YO API to fetch satellite data. You will need an API key to run the app.
 
 Sign up for a free API key at N2YO API.
@@ -81,7 +81,7 @@ N2YO_API_KEY=your_api_key_here
 Replace your_api_key_here with the actual key you received.
 
 
-### 6 Running the Application
+### 6. Running the Application
 Once the setup is complete, you can run the Streamlit app by using the following command:
 
 ```bash
